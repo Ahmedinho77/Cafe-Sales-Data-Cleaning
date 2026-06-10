@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cafe Sales Data Cleaning Project
 
 ## Overview
@@ -43,3 +44,6 @@ This project involved cleaning a dirty cafe sales dataset with 10,000+ records c
 1. Always preserve data when possible (no row deletion)
 2. Cross-column validation helps recover numeric values
 3. Status columns provide transparency for derived values
+=======
+# Cafe-Sales-Data-Cleaning
+>>>>>>> 7ae4cb4a82713da66e3d81690e1f03c070c67755
